@@ -4,6 +4,16 @@ This template includes a [Next.js](https://nextjs.org/) app with a [Sanity Studi
 
 ![Screenshot of Sanity Studio using Presentation Tool to do Visual Editing](/sanity-next-preview.png)
 
+## Template documentation
+
+This repository is a project template — start a new client project by copying it, not by editing it in place. Read these in order:
+
+1. **[TEMPLATE_SETUP.md](TEMPLATE_SETUP.md)** — step-by-step setup for a new project (clone, env vars, Sanity project, first run, deploy).
+2. **[CUSTOMIZATION_CHECKLIST.md](CUSTOMIZATION_CHECKLIST.md)** — file-by-file checklist of what to change per project (metadata, branding, schema, content).
+3. **[TEMPLATE_CONVERSION_SUMMARY.md](TEMPLATE_CONVERSION_SUMMARY.md)** — what this template adds on top of the upstream `sanity-io/sanity-template-nextjs-clean` (commit hooks, PR conventions, agent skills) and how to keep it in sync.
+
+The rest of this README is the upstream Sanity template's user-facing documentation, kept for reference.
+
 ## Features
 
 - **Next.js 16 for Performance:** Leverage the power of Next.js 16 App Router for blazing-fast performance and SEO-friendly static sites.
